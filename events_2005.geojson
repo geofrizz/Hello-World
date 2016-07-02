@@ -1,0 +1,2819 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.082,
+          39.498
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-16",
+        "t_time": "11:23:38.18",
+        "n_lat": 39.498,
+        "n_long": 15.082,
+        "n_profondita": 306.7,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.376,
+          38.639
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-18",
+        "t_time": "10:06:00.32",
+        "n_lat": 38.639,
+        "n_long": 14.376,
+        "n_profondita": 38.8,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.348,
+          44.724
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-18",
+        "t_time": "10:59:18.56",
+        "n_lat": 44.724,
+        "n_long": 9.348,
+        "n_profondita": 7.8,
+        "n_magnitudo": 3.7,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.724,
+          44.77
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-19",
+        "t_time": "07:42:01.25",
+        "n_lat": 44.77,
+        "n_long": 9.724,
+        "n_profondita": 25.2,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.687,
+          44.769
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-19",
+        "t_time": "08:27:39.88",
+        "n_lat": 44.769,
+        "n_long": 9.687,
+        "n_profondita": 25.6,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.632,
+          38.143
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-19",
+        "t_time": "22:36:23.54",
+        "n_lat": 38.143,
+        "n_long": 15.632,
+        "n_profondita": 16.5,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.988,
+          37.825
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-21",
+        "t_time": "12:53:40.09",
+        "n_lat": 37.825,
+        "n_long": 14.988,
+        "n_profondita": 21.7,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.835,
+          39.444
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-23",
+        "t_time": "19:01:23.51",
+        "n_lat": 39.444,
+        "n_long": 16.835,
+        "n_profondita": 28.7,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.798,
+          38.404
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-23",
+        "t_time": "19:10:48.49",
+        "n_lat": 38.404,
+        "n_long": 15.798,
+        "n_profondita": 20.2,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.704,
+          39.515
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-23",
+        "t_time": "19:15:33.82",
+        "n_lat": 39.515,
+        "n_long": 16.704,
+        "n_profondita": 23,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.732,
+          43.24
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-27",
+        "t_time": "13:08:08.64",
+        "n_lat": 43.24,
+        "n_long": 12.732,
+        "n_profondita": 10,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.317,
+          44.694
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-30",
+        "t_time": "08:10:25.12",
+        "n_lat": 44.694,
+        "n_long": 9.317,
+        "n_profondita": 8.7,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.996,
+          38.984
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-30",
+        "t_time": "19:00:39.11",
+        "n_lat": 38.984,
+        "n_long": 19.996,
+        "n_profondita": 14.4,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.894,
+          39.351
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-05",
+        "t_time": "00:55:24.08",
+        "n_lat": 39.351,
+        "n_long": 13.894,
+        "n_profondita": 40,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.711,
+          41.894
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-05",
+        "t_time": "13:21:21.87",
+        "n_lat": 41.894,
+        "n_long": 13.711,
+        "n_profondita": 19,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35,
+          44.591
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-11",
+        "t_time": "00:52:10.55",
+        "n_lat": 44.591,
+        "n_long": 10.35,
+        "n_profondita": 56.4,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.185,
+          43.617
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-17",
+        "t_time": "00:32:13.57",
+        "n_lat": 43.617,
+        "n_long": 10.185,
+        "n_profondita": 9.5,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.383,
+          45.571
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-18",
+        "t_time": "21:41:08.64",
+        "n_lat": 45.571,
+        "n_long": 11.383,
+        "n_profondita": 21.6,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.515,
+          40.991
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-21",
+        "t_time": "19:55:19",
+        "n_lat": 40.991,
+        "n_long": 14.515,
+        "n_profondita": 16.1,
+        "n_magnitudo": 3.7,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.64,
+          37.802
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-22",
+        "t_time": "20:20:31.51",
+        "n_lat": 37.802,
+        "n_long": 14.64,
+        "n_profondita": 24.2,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.992,
+          38.84
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-25",
+        "t_time": "18:14:45.21",
+        "n_lat": 38.84,
+        "n_long": 14.992,
+        "n_profondita": 279.8,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.194,
+          40.075
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-26",
+        "t_time": "23:17:32.16",
+        "n_lat": 40.075,
+        "n_long": 15.194,
+        "n_profondita": 288.4,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.284,
+          36.255
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-30",
+        "t_time": "21:19:37.99",
+        "n_lat": 36.255,
+        "n_long": 15.284,
+        "n_profondita": 17.5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.956,
+          37.676
+        ]
+      },
+      "properties": {
+        "d_date": "2005-05-30",
+        "t_time": "22:19:14.17",
+        "n_lat": 37.676,
+        "n_long": 10.956,
+        "n_profondita": 9.4,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.307,
+          39.589
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-02",
+        "t_time": "03:05:50.58",
+        "n_lat": 39.589,
+        "n_long": 15.307,
+        "n_profondita": 9.8,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.31,
+          39.643
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-03",
+        "t_time": "23:27:01.22",
+        "n_lat": 39.643,
+        "n_long": 15.31,
+        "n_profondita": 291.8,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351,
+          44.563
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-04",
+        "t_time": "21:27:35.5",
+        "n_lat": 44.563,
+        "n_long": 10.351,
+        "n_profondita": 24.2,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.321,
+          44.713
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-05",
+        "t_time": "04:18:46.34",
+        "n_lat": 44.713,
+        "n_long": 9.321,
+        "n_profondita": 6.6,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.399,
+          40.184
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-05",
+        "t_time": "23:40:12.49",
+        "n_lat": 40.184,
+        "n_long": 19.399,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.838,
+          40.445
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-07",
+        "t_time": "09:09:14.71",
+        "n_lat": 40.445,
+        "n_long": 19.838,
+        "n_profondita": 9.8,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.661,
+          40.507
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-11",
+        "t_time": "03:38:53.74",
+        "n_lat": 40.507,
+        "n_long": 19.661,
+        "n_profondita": 13.5,
+        "n_magnitudo": 3.9,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.383,
+          42.92
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-11",
+        "t_time": "11:51:57.74",
+        "n_lat": 42.92,
+        "n_long": 18.383,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.275,
+          45.129
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-12",
+        "t_time": "21:16:14.2",
+        "n_lat": 45.129,
+        "n_long": 7.275,
+        "n_profondita": 29.6,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.515,
+          43.078
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-13",
+        "t_time": "21:02:07.44",
+        "n_lat": 43.078,
+        "n_long": 17.515,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.022,
+          38.726
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-16",
+        "t_time": "03:34:30.24",
+        "n_lat": 38.726,
+        "n_long": 18.022,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.292,
+          43.785
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-27",
+        "t_time": "03:31:16.26",
+        "n_lat": 43.785,
+        "n_long": 16.292,
+        "n_profondita": 32.9,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.721,
+          35.822
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-28",
+        "t_time": "23:38:07.1",
+        "n_lat": 35.822,
+        "n_long": 11.721,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387,
+          38.61
+        ]
+      },
+      "properties": {
+        "d_date": "2005-06-30",
+        "t_time": "09:59:06.85",
+        "n_lat": 38.61,
+        "n_long": 13.387,
+        "n_profondita": 24.4,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.961,
+          38.421
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-04",
+        "t_time": "13:38:25.41",
+        "n_lat": 38.421,
+        "n_long": 13.961,
+        "n_profondita": 24.9,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.068,
+          43.007
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-04",
+        "t_time": "20:37:40.37",
+        "n_lat": 43.007,
+        "n_long": 18.068,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931,
+          44.301
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-06",
+        "t_time": "17:40:12.57",
+        "n_lat": 44.301,
+        "n_long": 6.931,
+        "n_profondita": 21.5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.989,
+          37.837
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-10",
+        "t_time": "13:38:50.88",
+        "n_lat": 37.837,
+        "n_long": 14.989,
+        "n_profondita": 28.8,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.104,
+          44.225
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-15",
+        "t_time": "15:23:47.37",
+        "n_lat": 44.225,
+        "n_long": 12.104,
+        "n_profondita": 22.2,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.279,
+          37.263
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-16",
+        "t_time": "09:34:42.82",
+        "n_lat": 37.263,
+        "n_long": 13.279,
+        "n_profondita": 29.4,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.986,
+          34.585
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-16",
+        "t_time": "23:45:16.21",
+        "n_lat": 34.585,
+        "n_long": 14.986,
+        "n_profondita": 17.4,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.853,
+          39.399
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-21",
+        "t_time": "15:41:42.57",
+        "n_lat": 39.399,
+        "n_long": 14.853,
+        "n_profondita": 24.9,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.738,
+          38.913
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-29",
+        "t_time": "10:16:53.88",
+        "n_lat": 38.913,
+        "n_long": 15.738,
+        "n_profondita": 92.8,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.707,
+          40.878
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-03",
+        "t_time": "05:49:32.42",
+        "n_lat": 40.878,
+        "n_long": 19.707,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.657,
+          40.642
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-03",
+        "t_time": "06:31:45.89",
+        "n_lat": 40.642,
+        "n_long": 13.657,
+        "n_profondita": 469.1,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.774,
+          38.505
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-05",
+        "t_time": "20:22:16.1",
+        "n_lat": 38.505,
+        "n_long": 16.774,
+        "n_profondita": 35.3,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.336,
+          42.097
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-06",
+        "t_time": "09:31:46.8",
+        "n_lat": 42.097,
+        "n_long": 13.336,
+        "n_profondita": 8.8,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.698,
+          41.42
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-11",
+        "t_time": "09:01:01.16",
+        "n_lat": 41.42,
+        "n_long": 17.698,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.789,
+          40.029
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-12",
+        "t_time": "18:53:19.78",
+        "n_lat": 40.029,
+        "n_long": 19.789,
+        "n_profondita": 10,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.495,
+          38.875
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-14",
+        "t_time": "07:06:53.31",
+        "n_lat": 38.875,
+        "n_long": 15.495,
+        "n_profondita": 222.4,
+        "n_magnitudo": 3.9,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.167,
+          37.794
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-14",
+        "t_time": "21:56:50.1",
+        "n_lat": 37.794,
+        "n_long": 15.167,
+        "n_profondita": 4.1,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.172,
+          37.804
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-14",
+        "t_time": "22:02:27.08",
+        "n_lat": 37.804,
+        "n_long": 15.172,
+        "n_profondita": 5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.782,
+          39.384
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-15",
+        "t_time": "01:01:14.78",
+        "n_lat": 39.384,
+        "n_long": 16.782,
+        "n_profondita": 34.6,
+        "n_magnitudo": 3.3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.425,
+          44.485
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-17",
+        "t_time": "05:00:43.07",
+        "n_lat": 44.485,
+        "n_long": 10.425,
+        "n_profondita": 27.8,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.988,
+          42.768
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-23",
+        "t_time": "01:13:37.26",
+        "n_lat": 42.768,
+        "n_long": 20.988,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.52,
+          37.551
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-26",
+        "t_time": "05:29:43.15",
+        "n_lat": 37.551,
+        "n_long": 20.52,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.141,
+          36.2
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-29",
+        "t_time": "21:19:33.77",
+        "n_lat": 36.2,
+        "n_long": 16.141,
+        "n_profondita": 9.1,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.64,
+          35.533
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-04",
+        "t_time": "18:59:38.11",
+        "n_lat": 35.533,
+        "n_long": 15.64,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.317,
+          38.713
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-07",
+        "t_time": "12:40:33.4",
+        "n_lat": 38.713,
+        "n_long": 16.317,
+        "n_profondita": 23.7,
+        "n_magnitudo": 3.7,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.041,
+          42.027
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-07",
+        "t_time": "19:34:20.27",
+        "n_lat": 42.027,
+        "n_long": 19.041,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.555,
+          44.979
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-09",
+        "t_time": "12:45:16.41",
+        "n_lat": 44.979,
+        "n_long": 6.555,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.922,
+          44.622
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-10",
+        "t_time": "13:25:28.4",
+        "n_lat": 44.622,
+        "n_long": 6.922,
+        "n_profondita": 10,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.414,
+          39.464
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-10",
+        "t_time": "15:27:06.34",
+        "n_lat": 39.464,
+        "n_long": 16.414,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.099,
+          44.568
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-12",
+        "t_time": "21:34:26.07",
+        "n_lat": 44.568,
+        "n_long": 10.099,
+        "n_profondita": 25.1,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.236,
+          38.868
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-12",
+        "t_time": "22:21:34.42",
+        "n_lat": 38.868,
+        "n_long": 20.236,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.02,
+          42.977
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-14",
+        "t_time": "10:43:24.24",
+        "n_lat": 42.977,
+        "n_long": 18.02,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.65,
+          39.729
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-15",
+        "t_time": "03:30:24.63",
+        "n_lat": 39.729,
+        "n_long": 20.65,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.871,
+          40.587
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-16",
+        "t_time": "21:31:29.22",
+        "n_lat": 40.587,
+        "n_long": 19.871,
+        "n_profondita": 7.6,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.86,
+          41.243
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-17",
+        "t_time": "18:43:52.76",
+        "n_lat": 41.243,
+        "n_long": 19.86,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.509,
+          40.76
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-18",
+        "t_time": "04:54:00.58",
+        "n_lat": 40.76,
+        "n_long": 18.509,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.231,
+          37.304
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-18",
+        "t_time": "18:19:17.07",
+        "n_lat": 37.304,
+        "n_long": 20.231,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.9,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.428,
+          43.799
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-18",
+        "t_time": "21:54:20.97",
+        "n_lat": 43.799,
+        "n_long": 12.428,
+        "n_profondita": 19.6,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197,
+          42.506
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-20",
+        "t_time": "07:46:36.88",
+        "n_lat": 42.506,
+        "n_long": 13.197,
+        "n_profondita": 16.5,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.104,
+          38.618
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-27",
+        "t_time": "22:33:09.27",
+        "n_lat": 38.618,
+        "n_long": 17.104,
+        "n_profondita": 31.4,
+        "n_magnitudo": 3.7,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.425,
+          43.787
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-30",
+        "t_time": "21:19:00.33",
+        "n_lat": 43.787,
+        "n_long": 12.425,
+        "n_profondita": 17,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.299,
+          36.792
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-01",
+        "t_time": "08:35:21.43",
+        "n_lat": 36.792,
+        "n_long": 14.299,
+        "n_profondita": 21.3,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.305,
+          36.792
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-01",
+        "t_time": "08:41:43.92",
+        "n_lat": 36.792,
+        "n_long": 14.305,
+        "n_profondita": 20.5,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.665,
+          43.338
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-04",
+        "t_time": "10:21:41.65",
+        "n_lat": 43.338,
+        "n_long": 16.665,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.88,
+          47.965
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-06",
+        "t_time": "07:23:11.73",
+        "n_lat": 47.965,
+        "n_long": 12.88,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.425,
+          43.795
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-07",
+        "t_time": "16:47:54.34",
+        "n_lat": 43.795,
+        "n_long": 12.425,
+        "n_profondita": 7.7,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.225,
+          42.574
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-09",
+        "t_time": "13:48:40.43",
+        "n_lat": 42.574,
+        "n_long": 13.225,
+        "n_profondita": 15.7,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.815,
+          38.614
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-18",
+        "t_time": "18:21:02.14",
+        "n_lat": 38.614,
+        "n_long": 14.815,
+        "n_profondita": 22,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.13,
+          37.663
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-21",
+        "t_time": "22:13:00.18",
+        "n_lat": 37.663,
+        "n_long": 15.13,
+        "n_profondita": 5,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.509,
+          35.816
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-27",
+        "t_time": "19:19:26.93",
+        "n_lat": 35.816,
+        "n_long": 11.509,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.13,
+          37.671
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-28",
+        "t_time": "13:59:05.59",
+        "n_lat": 37.671,
+        "n_long": 15.13,
+        "n_profondita": 3.3,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.085,
+          38.637
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-29",
+        "t_time": "14:04:06.4",
+        "n_lat": 38.637,
+        "n_long": 17.085,
+        "n_profondita": 31.3,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.298,
+          35.917
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-29",
+        "t_time": "18:16:51.23",
+        "n_lat": 35.917,
+        "n_long": 11.298,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.254,
+          35.788
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-29",
+        "t_time": "18:36:37.67",
+        "n_lat": 35.788,
+        "n_long": 11.254,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.063,
+          37.616
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-30",
+        "t_time": "05:42:11.77",
+        "n_lat": 37.616,
+        "n_long": 15.063,
+        "n_profondita": 6.6,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.061,
+          37.623
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-30",
+        "t_time": "06:06:49.76",
+        "n_lat": 37.623,
+        "n_long": 15.061,
+        "n_profondita": 8,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.944,
+          36.057
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-30",
+        "t_time": "13:41:53.85",
+        "n_lat": 36.057,
+        "n_long": 11.944,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.926,
+          38.528
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-30",
+        "t_time": "19:09:46.8",
+        "n_lat": 38.528,
+        "n_long": 15.926,
+        "n_profondita": 23.8,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.072,
+          37.639
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-31",
+        "t_time": "00:02:41.02",
+        "n_lat": 37.639,
+        "n_long": 15.072,
+        "n_profondita": 13.6,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.259,
+          37.972
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-03",
+        "t_time": "09:19:04.45",
+        "n_lat": 37.972,
+        "n_long": 14.259,
+        "n_profondita": 1.4,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.898,
+          37.572
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-04",
+        "t_time": "14:45:36.89",
+        "n_lat": 37.572,
+        "n_long": 14.898,
+        "n_profondita": 16.9,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.247,
+          44.154
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-08",
+        "t_time": "21:10:26.55",
+        "n_lat": 44.154,
+        "n_long": 12.247,
+        "n_profondita": 19.9,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.832,
+          42.604
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-10",
+        "t_time": "16:55:15.38",
+        "n_lat": 42.604,
+        "n_long": 17.832,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.138,
+          47.434
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-12",
+        "t_time": "19:31:13.98",
+        "n_lat": 47.434,
+        "n_long": 8.138,
+        "n_profondita": 5.6,
+        "n_magnitudo": 3.8,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.939,
+          42.985
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-14",
+        "t_time": "01:29:08.91",
+        "n_lat": 42.985,
+        "n_long": 17.939,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.205,
+          42.741
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-15",
+        "t_time": "05:07:04.46",
+        "n_lat": 42.741,
+        "n_long": 13.205,
+        "n_profondita": 13.9,
+        "n_magnitudo": 3.1,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.215,
+          39.126
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-18",
+        "t_time": "18:35:22.57",
+        "n_lat": 39.126,
+        "n_long": 17.215,
+        "n_profondita": 18.9,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.958,
+          45.403
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-20",
+        "t_time": "10:48:58.88",
+        "n_lat": 45.403,
+        "n_long": 8.958,
+        "n_profondita": 34.5,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.061,
+          39.197
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-03",
+        "t_time": "08:33:01.78",
+        "n_lat": 39.197,
+        "n_long": 17.061,
+        "n_profondita": 9.9,
+        "n_magnitudo": 3.6,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.703,
+          38.339
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-05",
+        "t_time": "00:01:06.17",
+        "n_lat": 38.339,
+        "n_long": 12.703,
+        "n_profondita": 5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.523,
+          43.15
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-09",
+        "t_time": "20:04:32.05",
+        "n_lat": 43.15,
+        "n_long": 15.523,
+        "n_profondita": 12.5,
+        "n_magnitudo": 3.3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.429,
+          39.469
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-11",
+        "t_time": "15:13:54.94",
+        "n_lat": 39.469,
+        "n_long": 16.429,
+        "n_profondita": 19.8,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.957,
+          37.737
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-12",
+        "t_time": "05:04:15.82",
+        "n_lat": 37.737,
+        "n_long": 14.957,
+        "n_profondita": 28.2,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.103,
+          46.069
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-12",
+        "t_time": "14:14:14.09",
+        "n_lat": 46.069,
+        "n_long": 14.103,
+        "n_profondita": 10.1,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.375,
+          46.505
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-12",
+        "t_time": "16:35:50.15",
+        "n_lat": 46.505,
+        "n_long": 13.375,
+        "n_profondita": 7.5,
+        "n_magnitudo": 3.2,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.756,
+          42.746
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-13",
+        "t_time": "07:12:12.8",
+        "n_lat": 42.746,
+        "n_long": 12.756,
+        "n_profondita": 10.5,
+        "n_magnitudo": 3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.773,
+          42.748
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-15",
+        "t_time": "06:00:32.81",
+        "n_lat": 42.748,
+        "n_long": 12.773,
+        "n_profondita": 19.3,
+        "n_magnitudo": 3.3,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.745,
+          42.735
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-16",
+        "t_time": "20:12:37.78",
+        "n_lat": 42.735,
+        "n_long": 12.745,
+        "n_profondita": 6.5,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.753,
+          42.738
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-18",
+        "t_time": "08:06:48.3",
+        "n_lat": 42.738,
+        "n_long": 12.753,
+        "n_profondita": 9.8,
+        "n_magnitudo": 3.5,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1,
+          38.694
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-24",
+        "t_time": "20:45:27.39",
+        "n_lat": 38.694,
+        "n_long": 15.1,
+        "n_profondita": 235.3,
+        "n_magnitudo": 3.4,
+        "marker-symbol": "star",
+        "marker-color": "#82e0aa",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.17,
+          35.474
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-22",
+        "t_time": "15:40:49.9",
+        "n_lat": 35.474,
+        "n_long": 15.17,
+        "n_profondita": 7.2,
+        "n_magnitudo": 4,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.826,
+          39.458
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-23",
+        "t_time": "19:11:41.69",
+        "n_lat": 39.458,
+        "n_long": 16.826,
+        "n_profondita": 19.1,
+        "n_magnitudo": 4.1,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.258,
+          45.544
+        ]
+      },
+      "properties": {
+        "d_date": "2005-04-24",
+        "t_time": "18:33:59.36",
+        "n_lat": 45.544,
+        "n_long": 14.258,
+        "n_profondita": 5.5,
+        "n_magnitudo": 4.1,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.416,
+          42.755
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-03",
+        "t_time": "23:44:42.85",
+        "n_lat": 42.755,
+        "n_long": 17.416,
+        "n_profondita": 12.5,
+        "n_magnitudo": 4.4,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.117,
+          44.207
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-15",
+        "t_time": "15:17:18",
+        "n_lat": 44.207,
+        "n_long": 12.117,
+        "n_profondita": 22.8,
+        "n_magnitudo": 4.4,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.711,
+          40.003
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-26",
+        "t_time": "03:32:15.42",
+        "n_lat": 40.003,
+        "n_long": 12.711,
+        "n_profondita": 502.1,
+        "n_magnitudo": 4,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.446,
+          41.365
+        ]
+      },
+      "properties": {
+        "d_date": "2005-08-22",
+        "t_time": "12:02:07.4",
+        "n_lat": 41.365,
+        "n_long": 12.446,
+        "n_profondita": 17.4,
+        "n_magnitudo": 4.7,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.959,
+          46.008
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-08",
+        "t_time": "11:27:17.77",
+        "n_lat": 46.008,
+        "n_long": 6.959,
+        "n_profondita": 2.4,
+        "n_magnitudo": 4.4,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.184,
+          38.906
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-12",
+        "t_time": "21:30:50.76",
+        "n_lat": 38.906,
+        "n_long": 20.184,
+        "n_profondita": 12.5,
+        "n_magnitudo": 4.6,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.675,
+          37.989
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-13",
+        "t_time": "04:41:12.26",
+        "n_lat": 37.989,
+        "n_long": 20.675,
+        "n_profondita": 12.5,
+        "n_magnitudo": 4.5,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.815,
+          37.768
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-19",
+        "t_time": "22:17:11.35",
+        "n_lat": 37.768,
+        "n_long": 20.815,
+        "n_profondita": 12.5,
+        "n_magnitudo": 4.9,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.182,
+          38.408
+        ]
+      },
+      "properties": {
+        "d_date": "2005-09-20",
+        "t_time": "13:14:24.76",
+        "n_lat": 38.408,
+        "n_long": 20.182,
+        "n_profondita": 12.5,
+        "n_magnitudo": 4,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.725,
+          34.781
+        ]
+      },
+      "properties": {
+        "d_date": "2005-10-18",
+        "t_time": "21:01:42.46",
+        "n_lat": 34.781,
+        "n_long": 18.725,
+        "n_profondita": 12.5,
+        "n_magnitudo": 4.2,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.105,
+          37.597
+        ]
+      },
+      "properties": {
+        "d_date": "2005-11-21",
+        "t_time": "10:57:40.23",
+        "n_lat": 37.597,
+        "n_long": 14.105,
+        "n_profondita": 63.2,
+        "n_magnitudo": 4.7,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76,
+          42.738
+        ]
+      },
+      "properties": {
+        "d_date": "2005-12-15",
+        "t_time": "13:28:39.59",
+        "n_lat": 42.738,
+        "n_long": 12.76,
+        "n_profondita": 18.4,
+        "n_magnitudo": 4.2,
+        "marker-symbol": "star",
+        "marker-color": "#f7dc6f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.974,
+          42.279
+        ]
+      },
+      "properties": {
+        "d_date": "2005-07-10",
+        "t_time": "13:10:10.9",
+        "n_lat": 42.279,
+        "n_long": 19.974,
+        "n_profondita": 12.5,
+        "n_magnitudo": 5.4,
+        "marker-symbol": "star",
+        "marker-color": "#f39c12",
+        "marker-size": "small"
+      }
+    }
+  ]
+}
